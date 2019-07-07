@@ -1,0 +1,47 @@
+[
+    {  
+      "symbol": "EURUSD",  
+      "bid": "EUR",  
+      "term": "USD",  
+      "totalFractionalDigits": 5,  
+      "pipStartIdx": 3,  
+      "pipLength": 2,  
+      "basePrice": 1.1423  
+    },
+    {  
+      "symbol": "EURGBP",  
+      "bid": "EUR",  
+      "term": "GBP",  
+      "totalFractionalDigits": 5,  
+      "pipStartIdx": 3,  
+      "pipLength": 2,  
+      "basePrice": 1.1423  
+    },
+    {  
+      "symbol": "USDJPY",  
+      "bid": "USD",  
+      "term": "JPY",  
+      "totalFractionalDigits": 5,  
+      "pipStartIdx": 3,  
+      "pipLength": 2,  
+      "basePrice": 107.7556  
+    },
+    {  
+      "symbol": "USDCAD",  
+      "bid": "USD",  
+      "term": "CAD",  
+      "totalFractionalDigits": 5,  
+      "pipStartIdx": 3,  
+      "pipLength": 2,  
+      "basePrice": 107.7556  
+    },
+    {  
+      "symbol": "EURJPY",  
+      "bid": "EUR",  
+      "term": "JPY",  
+      "totalFractionalDigits": 5,  
+      "pipStartIdx": 3,  
+      "pipLength": 2,  
+      "basePrice": 107.7556  
+    }  
+  ]
